@@ -27,6 +27,7 @@ dev
  * allow index expressions against columns that are not part of the 
    SlicePredicate (CASSANDRA-1410)
 
+test
 
 0.7-beta1
  * sstable versioning (CASSANDRA-389)
